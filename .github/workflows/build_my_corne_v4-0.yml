@@ -10,3 +10,6 @@ jobs:
     with:
       keyboard: '["crkbd"]'
       alphas: '["QWERTY"]'
+      clipboard: '["Win"]'
+      rules: '["jg4n6_custom_rules.mk"]'
+      custom_config: '["jg4n6_config.h"]'
